@@ -22,3 +22,9 @@ GitHubに慣れるための学習用リポジトリです。
 	- https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00
 	- ターミナルからGitHubを扱うために必要なもの（Macは必要ない）
 	- 「環境設定」はやらなくても行けた。
+
+
+- https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9
+- http://chroma.hatenablog.com/entry/2013/10/18/111052
+- http://proengineer.internous.co.jp/content/columnfeature/6944
+- https://www.softel.co.jp/blogs/tech/archives/3569
