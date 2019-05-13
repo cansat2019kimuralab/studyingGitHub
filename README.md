@@ -26,7 +26,10 @@ GitHubに慣れるための学習用リポジトリです。
 	- https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00
 	- ターミナルからGitHubを扱うために必要なもの（Macは必要ない）
 	- 「環境設定」はやらなくても行けた。
-
+- git pull コマンドの使い方と、主要オプションまとめ
+	- http://www-creators.com/archives/2295
+- Gitの基本 - Gitリポジトリの取得
+	- https://git-scm.com/book/ja/v1/Git-%E3%81%AE%E5%9F%BA%E6%9C%AC-Git-%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA%E3%81%AE%E5%8F%96%E5%BE%97
 
 ## トラブルシューティング
 
