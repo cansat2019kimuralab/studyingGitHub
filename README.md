@@ -13,7 +13,7 @@ GitHubに慣れるための学習用リポジトリです。
 	- [いまさらGit for Windowsのインストール、GitHubに接続してみた。](https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00)
 
 2. GitHubの使い方（リポジトリ作成とコミット、プッシュ）
-	- まずは個人ページでリポジトリを試してみる
+	- まずは個人ページでリポジトリを作り試してみる
 	- 一通り試せたらこのリポジトリにもファイルを上げてみる
 	- [【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～](	 https://qiita.com/nnahito/items/565f8755e70c51532459)
 	
