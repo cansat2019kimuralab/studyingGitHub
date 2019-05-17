@@ -5,6 +5,16 @@
 GitHubに慣れるための学習用リポジトリです。
 基本的に自由に好き勝手に使っていいです。
 
+## GitHubの導入
+
+1. Git for Windowsをインストールする
+	ターミナルでGitHubを扱うために必要なもの（Macは必要ない）
+	[いまさらGit for Windowsのインストール、GitHubに接続してみた。](https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00)
+	環境設定」はやらなくても行けた。
+
+2. 
+	[【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～](	 https://qiita.com/nnahito/items/565f8755e70c51532459)
+	 まずは個人ページでリポジトリを試して
 
 ## GitHubを始めるうえでダウンロードしておいたほうがいいもの
 
@@ -18,17 +28,10 @@ GitHubに慣れるための学習用リポジトリです。
 
 ## 参考ページ
 
-- 【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～
-	- https://qiita.com/nnahito/items/565f8755e70c51532459
-	- まずこれをやる。
-
 - Gitの使い方　～リポジトリの作成とコミット～
 	- http://proengineer.internous.co.jp/content/columnfeature/6944
 
-- いまさらGit for Windowsのインストール、GitHubに接続してみた。
-	- https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00
-	- ターミナルからGitHubを扱うために必要なもの（Macは必要ない）
-	- 「環境設定」はやらなくても行けた。
+
 
 - git pull コマンドの使い方と、主要オプションまとめ
 	- http://www-creators.com/archives/2295
