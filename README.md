@@ -7,13 +7,13 @@ GitHubに慣れるための学習用リポジトリです。
 
 ## GitHubの導入
 
-1. Git for Windowsをインストールする
-	- ターミナルでGitHubを扱うために必要なもの（Macは必要ない）
+1. Git for Windowsをインストールする(Macはすでにインストール済みなので不要）
+	- ターミナルでGitHubを扱うために必要なもの
 	- 以下のサイトの手順に従ってGit for Windowsをインストールする（「環境設定」はやらなくてもできた）
 	- [いまさらGit for Windowsのインストール、GitHubに接続してみた。](https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00)
 
 2. GitHubの使い方（リポジトリ作成とコミット、プッシュ）
-	- まずは個人ページでリポジトリを試してみる。
+	- まずは個人ページでリポジトリを試してみる
 	- 一通り試せたらこのリポジトリにもファイルを上げてみる
 	- [【GitHub超初心者入門】この前初めてGitHubを使い始めたエンジニア見習いが書くGitHubの使い方と実践～とりあえず一緒に動かしてみようぜ！～](	 https://qiita.com/nnahito/items/565f8755e70c51532459)
 	
