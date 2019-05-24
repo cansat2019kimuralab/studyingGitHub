@@ -21,6 +21,9 @@ GitHubに慣れるための学習用リポジトリです。
 	- [git pull コマンドの使い方と、主要オプションまとめ](http://www-creators.com/archives/2295)
 	- [git cloneで環境構築！ リポジトリをクローンしよう](https://www.sejuku.net/blog/71436)
 
+4. GitHubの使い方（リポジトリの中にディレクトリを作成する）
+	- [GitHubでディレクトリ作成](http://maeokaka.hatenablog.jp/entry/2016/07/07/001441)
+
 ## GitHubを使う上でダウンロードしておいたほうがいいもの
 
 - GitHub Desktop
