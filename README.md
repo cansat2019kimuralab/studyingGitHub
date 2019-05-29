@@ -44,3 +44,4 @@ GitHubに慣れるための学習用リポジトリです。
 - [Gitのリモートブランチを削除するまとめ](https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9)
 - [Git、削除したファイルがstageに上手く上がらない時](http://chroma.hatenablog.com/entry/2013/10/18/111052)
 - [【git】 git pushがrejectされたときの対応方法](https://www.softel.co.jp/blogs/tech/archives/3569)
+- [git remote addを取り消す方法](https://qiita.com/ngtkk/items/05097d127db6a415a7d8)
