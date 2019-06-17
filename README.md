@@ -19,7 +19,7 @@ GitHubに慣れるための学習用リポジトリです。
 4. GitHubの使い方（リポジトリの中にディレクトリを作成する）
 	- [GitHubでディレクトリ作成](http://maeokaka.hatenablog.jp/entry/2016/07/07/001441)  
 5. GitHubの使い方（プルリクエストとマージ）  
-	- [プルリクエストを使った開発プロセス](https://backlog.com/ja/git-tutorial/pull-request/10/)
+	- [プルリクエストとは？](https://backlog.com/ja/git-tutorial/pull-request/01/)
 
 ## GitHubを使う上でダウンロードしておいたほうがいいもの
 - GitHub Desktop
