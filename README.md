@@ -23,7 +23,7 @@ GitHubに慣れるための学習用リポジトリです。
 	- 競合が発生しないようにプルリクエスを使ってプログラムを更新します
 	- 流れとしては   
 		- branchの作成  
-		- 作成したbrancにcheckout  
+		- 作成したbranchにcheckout  
 		- コードの編集 
 		- add, commit, pushする、pushするのはmasterではなく新しく作成したbranch
 		- remote上でpullrequestを出す  
