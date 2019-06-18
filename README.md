@@ -19,8 +19,20 @@ GitHubに慣れるための学習用リポジトリです。
 4. GitHubの使い方（リポジトリの中にディレクトリを作成する）
 	- [GitHubでディレクトリ作成](http://maeokaka.hatenablog.jp/entry/2016/07/07/001441)  
 5. GitHubの使い方（プルリクエストとマージ）  
-	- [プルリクエストとは？](https://backlog.com/ja/git-tutorial/pull-request/01/)  
+	- 試験用プログラムや本番用プログラムは複数人が同じコードを同時に編集することになります  
+	- 競合が発生しないようにプルリクエスを使ってプログラムを更新します
+	- 流れとしては   
+		- branchの作成  
+		- 作成したbrancにcheckout  
+		- コードの編集 
+		- add, commit, pushする、pushするのはmasterではなく新しく作成したbranch
+		- remote上でpullrequestを出す  
+		- Slackでpullrequestを出したことをつぶやく  
+		- Slackで返信されるまで待つ(本橋がReviewする）  
+		- Reviewした結果、問題なければmasterにmergeされたことを確認する  
+		- Reviewした結果、修正点があればコードの編集に戻る
 	- [初心者がGitを使った複数人での開発をする時の流れ](https://qiita.com/risagon/items/0cd3592b08ee058ffb80)
+	- [プルリクエストとは？](https://backlog.com/ja/git-tutorial/pull-request/01/)  
 
 ## GitHubを使う上でダウンロードしておいたほうがいいもの
 - GitHub Desktop
@@ -41,3 +53,4 @@ GitHubに慣れるための学習用リポジトリです。
 - [【git】 git pushがrejectされたときの対応方法](https://www.softel.co.jp/blogs/tech/archives/3569)
 - [git remote addを取り消す方法](https://qiita.com/ngtkk/items/05097d127db6a415a7d8)
 - [Gitリポジトリからファイルを削除したい](https://www-he.scphys.kyoto-u.ac.jp/member/shotakaha/dokuwiki/doku.php?id=toolbox:git:rm:start)
+- [Git で不要になったローカルブランチ・リモートブランチを削除する方法](https://qiita.com/iorionda/items/c7e0aca399371068a9b8)
