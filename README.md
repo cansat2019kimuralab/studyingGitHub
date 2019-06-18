@@ -31,6 +31,7 @@ GitHubに慣れるための学習用リポジトリです。
 		- Slackで返信されるまで待つ(本橋がReviewする）  
 		- Reviewした結果、問題なければmasterにmergeされたことを確認する  
 		- Reviewした結果、修正点があればコードの編集に戻る
+	- 具体的な方法は以下のサイトを参考にしてください
 	- [初心者がGitを使った複数人での開発をする時の流れ](https://qiita.com/risagon/items/0cd3592b08ee058ffb80)
 	- [プルリクエストとは？](https://backlog.com/ja/git-tutorial/pull-request/01/)  
 
